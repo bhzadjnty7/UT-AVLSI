@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE '* 8-bit kogge-stone adder'
+ tpd_max_cout     tpd_max_s8       power_avg        temper          
+ alter#          
+  2.438e-09        3.251e-10       -9.295e-05         15.0000       
+1               

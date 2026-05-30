@@ -1,0 +1,17 @@
+ ****** HSPICE -- P-2019.06-SP1-1 win64 (Sep 27 2019) ******
+  Copyright (c) 1986 - 2025 by Synopsys, Inc. All Rights Reserved.
+  This software and the associated documentation are proprietary
+  to Synopsys, Inc. This software may only be used in accordance
+  with the terms and conditions of a written license agreement with
+  Synopsys, Inc. All other use, reproduction, or distribution of
+  this software is strictly prohibited.
+
+================================================================
+*** This file format is subject to change **
+#Annotation for local variation contributors
+#=============
+<<power_avg>> # Global_Variation 100%  Local_Variation 0% IRV_Variation 0%
+<<tpd_max_cout>> # Global_Variation 100%  Local_Variation 0% IRV_Variation 0%
+<<tpd_max_s8>> # Global_Variation 100%  Local_Variation 0% IRV_Variation 0%
+#=============
+#Selective simulation for extreme corners: Monte= list( 11, 38)
