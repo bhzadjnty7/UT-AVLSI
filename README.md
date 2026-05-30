@@ -102,6 +102,16 @@ In the last assignment, we designed a combinational circuit (with a 100 fF loa
 ## License
 This repository is for educational purposes only. Feel free to use the content with proper attribution.
 
-* Author: Student of Advanced VLSI – University of Tehran
+---
+## Author
+
+**Behzad Jannati**
+M.Sc. Student – Computer Architecture
+University of Tehran
+
+GitHub: [https://github.com/bhzadjnty7](https://github.com/bhzadjnty7)
+
+Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
+
 * Instructor: Dr. Vahdat
 * Semester: Spring 2025
