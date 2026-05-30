@@ -1,0 +1,26 @@
+ ****** HSPICE -- P-2019.06-SP1-1 win64 (Sep 27 2019) ******
+  Copyright (c) 1986 - 2025 by Synopsys, Inc. All Rights Reserved.
+  This software and the associated documentation are proprietary
+  to Synopsys, Inc. This software may only be used in accordance
+  with the terms and conditions of a written license agreement with
+  Synopsys, Inc. All other use, reproduction, or distribution of
+  this software is strictly prohibited.
+
+================================================================
+*** This file format is subject to change **
+#Histogram plots from data
+#Number of histogram bins
+8
+#Number of Measures
+3
+#Column names, bin centers and bin counts
+power_avg,power_avg_count,tpd_max_cout,tpd_max_cout_count,tpd_max_s8,tpd_max_s8_count
+-0.0001543478,1,2.401557e-09,8,2.74212e-10,8
+-0.0001399647,2,2.420415e-09,26,3.00596e-10,26
+-0.0001255816,8,2.439272e-09,27,3.269801e-10,27
+-0.0001111986,20,2.45813e-09,23,3.533642e-10,24
+-9.681551e-05,23,2.476988e-09,9,3.797483e-10,9
+-8.243244e-05,29,2.495846e-09,4,4.061324e-10,3
+-6.804938e-05,14,2.514703e-09,2,4.325165e-10,2
+-5.366631e-05,3,2.533561e-09,1,4.589006e-10,1
+
