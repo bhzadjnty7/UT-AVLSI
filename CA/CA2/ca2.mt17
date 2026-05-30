@@ -1,0 +1,12 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE '* full combinational circuit for ca2 - advanced vlsi'
+ delay_w          delay_i          delay_x          delay_j         
+ delay_out        delay_k          delay_n          trise           
+ tfall            tpd              tpdr             tpdf            
+ td_a_w           td_w_x           td_x_out         td_out_n        
+ total_delay      power            temper           alter#          
+  5.587e-12        6.352e-12        9.912e-12        4.104e-12      
+  3.907e-11        4.578e-12        3.581e-11        9.789e-11      
+  8.438e-11        9.114e-11        5.457e-11        5.244e-11      
+  5.587e-12        9.912e-12        3.907e-11        3.581e-11      
+  5.457e-11        1.063e-03         25.0000        18              
