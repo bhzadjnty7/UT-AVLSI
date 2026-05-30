@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:5B21B6,100:7C3AED&height=220&section=header&text=AVLSI%20Course%20Projects&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
 <hr style="height:4px; border:none; background: linear-gradient(90deg, #2c3e66, #4a90e2, #2c3e66); margin: 20px 0 20px 0;">
 
 # Advanced VLSI Course Repository – University of Tehran
