@@ -1,6 +1,0 @@
-$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
-.TITLE '**********carry ripple adder***************'
- delay_cout       delay_s8         power_avg        temper          
- alter#          
-  2.367e-10        4.291e-10       -1.548e-05         25.0000       
-1               
