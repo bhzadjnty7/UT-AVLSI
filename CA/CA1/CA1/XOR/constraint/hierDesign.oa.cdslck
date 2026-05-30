@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      MohammadAli
+HostName                       MohammadAli.localhost
+ProcessIdentifier              42888
+ProcessCreationTime_UTC        1742507469
+ProcessCreationTime_Readable   Fri Mar 21 01:21:09 2025 IRST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/MohammadAli/work/cadence/tsmc18rf/CA1/XOR/constraint/hierDesign.oa.cdslck
+TimeEditLocked                 Fri Mar 21 14:23:24 2025 IRST

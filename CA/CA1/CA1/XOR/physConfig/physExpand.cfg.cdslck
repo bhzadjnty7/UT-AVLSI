@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      MohammadAli
+HostName                       MohammadAli
+ProcessIdentifier              42888
+ProcessCreationTime_UTC        1742507468
+ProcessCreationTime_Readable   Fri Mar 21 01:21:08 2025 IRST
+AppIdentifier                  /usr/local/cadence/virtuoso/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/MohammadAli/work/cadence/tsmc18rf/CA1/XOR/physConfig/physExpand.cfg
+TimeEditLocked                 Fri Mar 21 14:23:24 2025 IRST
