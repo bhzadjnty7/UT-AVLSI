@@ -6,7 +6,7 @@
 
 # Advanced VLSI Course Repository – University of Tehran
 
-This repository contains all **Computer Assignments (CA)**, **Homeworks (HW)**, and **Quiz Solutions** for the **Advanced VLSI** course taught by **Dr. Vahdat** at the Faculty of Electrical and Computer Engineering, University of Tehran, during **Spring 2025**.
+This repository contains all **Computer Assignments (CA)**, **Homeworks (HW)**, and **Quiz Solutions** for the **Advanced VLSI** course taught by **Dr. Vahdat** at the Faculty of Electrical and Computer Engineering, University of Tehran, during **Spring 2025**.( Includes Cadence Virtuoso layouts, HSPICE simulations, timing/power analysis, Monte Carlo, and Kogge‑Stone adders.)
 
 ![University](https://img.shields.io/badge/University-Tehran-blue?style=flat-square)
 ![Course](https://img.shields.io/badge/Course-Advanced%20VLSI-blue?style=flat-square)
@@ -18,6 +18,19 @@ This repository contains all **Computer Assignments (CA)**, **Homeworks (HW)**, 
 ![Tech_90nm](https://img.shields.io/badge/Technology-90nm-purple?style=flat-square)
 ![Tech_32nm](https://img.shields.io/badge/Technology-32nm-cyan?style=flat-square)
 ![Layout](https://img.shields.io/badge/Flow-DRC%2FLVS%2FPEX-brightgreen?style=flat-square)
+
+## Table of Contents
+
+- [Repository Structure](#repository-structure)
+- [Computer Assignments (CA) – Detailed Description](#computer-assignments-ca--detailed-description)
+  - [CA1 – Basic Gates, Full Adders, and Layout](#ca1--basic-gates-full-adders-and-layout)
+  - [CA2 – Effect of Gate Sizing on Delay and Power](#ca2--effect-of-gate-sizing-on-delay-and-power)
+  - [CA3 – Adder Comparison, Monte Carlo, and Temperature Analysis](#ca3--adder-comparison-monte-carlo-and-temperature-analysis)
+  - [CA4 – Memory Elements and Timing Constraints](#ca4--memory-elements-and-timing-constraints)
+- [Homeworks (HW) – Summary](#homeworks-hw--summary)
+- [Quizzes – Summary](#quizzes--summary)
+- [How to Use](#how-to-use)
+- [License](#license)
 
 ## Repository Structure
 
@@ -115,3 +128,7 @@ Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
 
 * Instructor: Dr. Vahdat
 * Semester: Spring 2025
+---
+## ⭐️ Support
+
+If you find this repository useful, consider giving it a ⭐️
