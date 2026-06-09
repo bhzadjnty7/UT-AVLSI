@@ -1,0 +1,11 @@
+*.sp linguist-language=SPICE
+*.cir linguist-language=SPICE
+*.spi linguist-language=SPICE
+
+*.md linguist-documentation
+*.txt linguist-documentation
+*.tex linguist-documentation
+
+*.1 linguist-documentation
+*.roff linguist-vendored
+*.man linguist-vendored
