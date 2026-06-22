@@ -23,8 +23,8 @@ M2 out in vdd vdd pch L=Lmin W='Wmin*2'
 .SUBCKT NAND2 inA inB out vdd vss
 M1 out inA vdd vdd pch L=Lmin W='Wmin*2'
 M2 out inB vdd vdd pch L=Lmin W='Wmin*2'
-M3 out inA net1 vss nch L=Lmin W=Wmin
-M4 net1 inB vss vss nch L=Lmin W=Wmin
+M3 out inA net1 vss nch L=Lmin W='Wmin*2'
+M4 net1 inB vss vss nch L=Lmin W='Wmin*2'
 .ENDS NAND2
 
 * NOR2 gate
@@ -51,14 +51,14 @@ XU2 nor_out out vdd vss INV
 .SUBCKT XOR2 A B out vdd vss
 Xinv1 A Abar vdd vss INV
 Xinv2 B Bbar vdd vss INV
-M1 net1 A Vdd Vdd pch L=Lmin W='2*Wmin'
-M2 out Bbar net1 Vdd pch L=Lmin W='2*Wmin'
-M3 net2 Abar Vdd Vdd pch L=Lmin W='2*Wmin'
-M4 out B net2 Vdd pch L=Lmin W='2*Wmin'
-M5 out A net3 vss nch L=Lmin W=Wmin
-M6 net3 B vss vss nch L=Lmin W=Wmin
-M7 out Abar net4 vss nch L=Lmin W=Wmin
-M8 net4 Bbar vss vss nch L=Lmin W=Wmin
+M1 net1 A Vdd Vdd pch L=Lmin W='4*Wmin'
+M2 out Bbar net1 Vdd pch L=Lmin W='4*Wmin'
+M3 net2 Abar Vdd Vdd pch L=Lmin W='4*Wmin'
+M4 out B net2 Vdd pch L=Lmin W='4*Wmin'
+M5 out A net3 vss nch L=Lmin W='2*Wmin'
+M6 net3 B vss vss nch L=Lmin W='2*Wmin'
+M7 out Abar net4 vss nch L=Lmin W='2*Wmin'
+M8 net4 Bbar vss vss nch L=Lmin W='2*Wmin'
 .ends XOR2
 
 * Black Cell (BC) - Group PG Logic
