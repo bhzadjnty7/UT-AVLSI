@@ -30,15 +30,15 @@ Mn out in 0   0   nmos W='Wn*size' L='L'
 .subckt nand2 a b out vdd 0 size=1
 Mp1 out a vdd vdd pmos W='Wp*size' L='L'
 Mp2 out b vdd vdd pmos W='Wp*size' L='L'
-Mn1 out a net1 0   nmos W='Wn*size' L='L'
-Mn2 net1 b 0   0   nmos W='Wn*size' L='L'
+Mn1 out a net1 0   nmos W='2*Wn*size' L='L'
+Mn2 net1 b 0   0   nmos W='2*Wn*size' L='L'
 .ends
 
 * NOR3 Gate
 .subckt nor3 a b c out vdd 0 size=1
-Mp1 out a net1 vdd pmos W='Wp*size' L='L'
-Mp2 net1 b net2 vdd pmos W='Wp*size' L='L'
-Mp3 net2 c vdd vdd pmos W='Wp*size' L='L'
+Mp1 out a net1 vdd pmos W='3*Wp*size' L='L'
+Mp2 net1 b net2 vdd pmos W='3*Wp*size' L='L'
+Mp3 net2 c vdd vdd pmos W='3*Wp*size' L='L'
 Mn1 out a 0 0 nmos W='Wn*size' L='L'
 Mn2 out b 0 0 nmos W='Wn*size' L='L'
 Mn3 out c 0 0 nmos W='Wn*size' L='L'
@@ -46,8 +46,8 @@ Mn3 out c 0 0 nmos W='Wn*size' L='L'
 
 * NOR2 Gate
 .subckt nor2 a b out vdd 0 size=1
-Mp1 out a net1 vdd pmos W='Wp*size' L='L'
-Mp2 net1 b vdd vdd pmos W='Wp*size' L='L'
+Mp1 out a net1 vdd pmos W='2*Wp*size' L='L'
+Mp2 net1 b vdd vdd pmos W='2*Wp*size' L='L'
 Mn1 out a 0 0 nmos W='Wn*size' L='L'
 Mn2 out b 0 0 nmos W='Wn*size' L='L'
 .ends
