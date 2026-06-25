@@ -59,7 +59,7 @@ This repository contains all **Computer Assignments (CA)**, **Homeworks (HW)**, 
 
 ---
 
-## Computer Assignments (CA) – Detailed Description
+## 📚 Computer Assignments (CA) – Detailed Description
 
 ### CA1 – Basic Gates, Full Adders, and Layout
 In this assignment, we first designed the schematic and symbol of fundamental gates (INV, AND, NAND, XOR, 2:1 MUX) using **Cadence Virtuoso** with the **TSMC18rf** 0.18 µm technology. Transistor widths followed a given table, and all lengths were 180 nm. After verifying the gates with transient simulations (using pulse voltage sources), we constructed two different full‑adder architectures: one based on NAND gates and another alternative structure. Using these, we implemented 4‑bit ripple‑carry adders for each type, as well as a Manchester carry‑chain adder. We measured propagation delays and power consumption for all structures. Finally, we drew the **layout** of the XOR gate, performed DRC, LVS, and PEX (parasitic extraction), and ran post‑layout simulations to compare the results with the ideal schematic.
