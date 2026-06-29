@@ -126,7 +126,7 @@ GitHub: [https://github.com/bhzadjnty7](https://github.com/bhzadjnty7)
 
 Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
 
-* Instructor: Dr. Vahdat
+* Instructor: Dr. Shaghayegh Vahdat
 * Semester: Spring 2025
 ---
 ## ⭐️ Support
